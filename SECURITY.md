@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-The Space Invaders project follows the below version support policy:
+The NEAT-Flappy-Bird project follows the below version support policy:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,10 +11,10 @@ The Space Invaders project follows the below version support policy:
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within Space Invaders, please send an email to vadymakohon@gmail.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within NEAT-Flappy-Bird, please send an email to vadymakohon@gmail.com. All security vulnerabilities will be promptly addressed.
 
 We strive to provide timely updates on the status of reported vulnerabilities and will keep you informed throughout the process. Once a vulnerability report is received, we will acknowledge receipt of the report and investigate its validity and severity.
 
 Upon verifying a vulnerability, we will prioritize its resolution and work on releasing a fix as quickly as possible. We are committed to ensuring the security of our users and will provide updates on the progress of vulnerability fixes.
 
-Thank you for helping to keep Space Invaders GAME secure.
+Thank you for helping to keep NEAT-Flappy-Bird GAME secure.
