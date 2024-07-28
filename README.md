@@ -1,6 +1,9 @@
 # NEAT-Flappy-Bird
 An AI that plays flappy bird! Using the NEAT python module.
 
+## Preview
+![Preview](https://github.com/user-attachments/assets/5ccaa563-6061-4289-8181-619dee5ff26b)
+
 ## Instructions
 Simply run flappy_bird.py and watch an AI start training itself to play the game of flappy bird!
 
