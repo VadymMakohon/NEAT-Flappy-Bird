@@ -37,7 +37,6 @@ def plot_stats(statistics, ylog=False, view=False, filename='avg_fitness.svg'):
         plt.show()
     plt.close()
 
-
 def plot_spikes(spikes, view=False, filename=None, title=None):
     """ Plots the trains for a single spiking neuron. """
     t_values = [t for t, I, v, u, f in spikes]
@@ -52,12 +51,8 @@ def plot_spikes(spikes, view=False, filename=None, title=None):
     plt.xlabel("Time (in ms)")
     plt.grid()
     plt.plot(t_values, v_values, "g-")
-
-    if title is None:
-        plt.title("Izhikevich's spiking neuron model")
-    else:
-        plt.title("Izhikevich's spiking neuron model ({0!s})".format(title))
-
+    plt.title("Izhikevich's spiking neuron model" if title is None else f"Izhikevich's spiking neuron model ({title})")
+    
     plt.subplot(4, 1, 2)
     plt.ylabel("Fired")
     plt.xlabel("Time (in ms)")
