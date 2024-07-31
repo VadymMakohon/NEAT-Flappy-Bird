@@ -73,14 +73,11 @@ def plot_spikes(spikes, view=False, filename=None, title=None):
 
     if filename is not None:
         plt.savefig(filename)
-
     if view:
         plt.show()
         plt.close()
         fig = None
-
     return fig
-
 
 def plot_species(statistics, view=False, filename='speciation.svg'):
     """ Visualizes speciation throughout evolution. """
@@ -100,12 +97,9 @@ def plot_species(statistics, view=False, filename='speciation.svg'):
     plt.xlabel("Generations")
 
     plt.savefig(filename)
-
     if view:
         plt.show()
-
     plt.close()
-
 
 def draw_net(config, genome, view=False, filename=None, node_names=None, show_disabled=True, prune_unused=False,
              node_colors=None, fmt='svg'):
