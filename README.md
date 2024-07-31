@@ -1,5 +1,5 @@
 # NEAT-Flappy-Bird
-🚀🕹️NEAT Flappy Bird is a project where an artificial intelligence (AI) learns to play the classic Flappy Bird game using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm. The AI agent is trained to navigate through pipes and achieve high scores by optimizing its neural network through evolution.
+🚀🕹️ NEAT Flappy Bird is an exciting project where artificial intelligence (AI) takes on the challenge of mastering the classic Flappy Bird game. Utilizing the cutting-edge NEAT (NeuroEvolution of Augmenting Topologies) algorithm, our AI learns and evolves its strategies to skillfully navigate through the game's obstacles. Witness the AI as it adapts, improves, and achieves high scores by evolving its neural network, showcasing the fascinating potential of neuroevolution in gaming. This project is a captivating blend of AI, machine learning, and retro gaming fun!
 
 ## Preview
 ![Preview](https://github.com/user-attachments/assets/5ccaa563-6061-4289-8181-619dee5ff26b)
