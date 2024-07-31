@@ -35,7 +35,6 @@ def plot_stats(statistics, ylog=False, view=False, filename='avg_fitness.svg'):
     plt.savefig(filename)
     if view:
         plt.show()
-
     plt.close()
 
 
