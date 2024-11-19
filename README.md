@@ -25,8 +25,13 @@ Simply run flappy_bird.py and watch an AI start training itself to play the game
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
-## License
-This project is open source and available under the MIT License.
+## 📜 License
+
+This repository is for educational purposes only and has an MIT License
+
+### Show your support
+
+Give a ⭐ if you like these projects!
 
 # Contributors
 - [Vadym Makohon](https://github.com/VadymMakohon)
