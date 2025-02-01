@@ -29,9 +29,10 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 This repository is for educational purposes only and has an MIT License
 
-### Show your support
+### ⭐ Show Your Support
 
-Give a ⭐ if you like these projects!
+If you like this project, give it a ⭐ on GitHub! Your support means a lot. 😊
 
-# Contributors
+## 👤Contributor
+
 - [Vadym Makohon](https://github.com/VadymMakohon)
